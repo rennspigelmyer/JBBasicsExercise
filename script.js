@@ -60,4 +60,4 @@ console.log("STAR-LORD"[0])
 var m=25;
 var c=4;
 var u=m+c;
-console.log(u);
+// console.log(u); <-- To test to see if the variables worked. 
